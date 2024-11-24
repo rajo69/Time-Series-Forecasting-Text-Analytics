@@ -1,5 +1,13 @@
 # Personal Consumption Expenditure Forecasting and Hotel Reviews Analysis
 
+---
+## Online Report
+
+Access the online report on RPubs.
+
+[Online Report]()
+
+---
 ## Assessed Coursework Overview
 
 This project is divided into two parts:
